@@ -1,7 +1,12 @@
 # Channel9Demo
-Simple demo of Azure Search using [AzSearchStore](https://github.com/EvanBoyle/AzSearchStore) and ReactJS
 
-[Live version here](http://azsearchstore.azurewebsites.net/channel9/index.html)
+## UPDATE
+Streamlined version of this demo using [AzSearch.js](https://github.com/EvanBoyle/AzSearch.js) available here:
+[Channel9 demo](http://azsearchstore.azurewebsites.net/channel9.html) | [source](https://github.com/EvanBoyle/AzSearch.js/blob/master/channel9.html) 
+
+## OLD DEMO
+
+Simple demo of Azure Search using [AzSearchStore](https://github.com/EvanBoyle/AzSearchStore) and ReactJS
 
 
 to build and run:
